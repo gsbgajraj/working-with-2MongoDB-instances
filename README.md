@@ -79,9 +79,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 4. Push to the Branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-You can copy and paste this content directly into your `README.md` file. Just replace `your-username` and the placeholder database names with your actual information.
